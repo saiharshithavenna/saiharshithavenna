@@ -3,7 +3,7 @@
   <!-- SECTION A: ANIMATED HEADER -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="29px" alt="wave">
   
-  <h1>Hi, I'm Sai Harshitha Venna</h1>
+  <h1>Hi, I'm Sai Harshitha</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+-+Backend+Developer;Python+%7C+AWS+%7C+Cloud+Infrastructure;Building+Scalable+Systems+%26+APIs" alt="Typing SVG" />
   
